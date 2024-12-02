@@ -1,0 +1,5 @@
+- inicio do algoritmo
+- entrada do valor de A como numero real
+- entrada do valor de B como numero real
+- apresentacao do resultado da soma de A e B
+- fim do algoritmo

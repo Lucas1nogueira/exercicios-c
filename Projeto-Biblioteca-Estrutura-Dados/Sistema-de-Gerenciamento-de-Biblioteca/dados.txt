@@ -1,0 +1,27 @@
+#####
+Codigo de emprestimo: 1
+Data do emprestimo: 05/05/2022
+Data de entrega: 05/06/2022
+Codigo ISBN: 1234567891234
+Titulo do livro: Livro de Portugues
+Numero da matricula do aluno: 100
+Nome do aluno: Joao
+
+#####
+Codigo de emprestimo: 2
+Data do emprestimo: 03/05/2022
+Data de entrega: 10/07/2022
+Codigo ISBN: 7732471894623
+Titulo do livro: Estrutura de Dados
+Numero da matricula do aluno: 250
+Nome do aluno: Eduardo
+
+#####
+Codigo de emprestimo: 3
+Data do emprestimo: 08/06/2021
+Data de entrega: 10/08/2021
+Codigo ISBN: 4488229944553
+Titulo do livro: Ciencias
+Numero da matricula do aluno: 300
+Nome do aluno: Maria
+
